@@ -1,0 +1,8 @@
+Connecting to VM Service at ws://127.0.0.1:60280/HNUjIWgsZbU=/ws
+Connected to the VM Service.
+Student: Ibarra, Andrew Kim
+Total Score: 99.5
+Is the total over 100? false
+Passed? true
+
+Exited.
